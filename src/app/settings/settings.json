@@ -1,0 +1,13 @@
+{
+    "app": {
+        "title": "Curiosity",
+        "logo": "../../../public/logo.jpg",
+        "bg": "none"
+    },
+    "theme": {
+        "path": "../../theme/Midnight"
+    },
+    "media": {
+        "listening": "Listening To"
+    }
+}
